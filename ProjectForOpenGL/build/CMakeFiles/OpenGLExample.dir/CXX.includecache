@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/test.hpp
+string
+-
+
+/home/jerry/CMakeProject/ProjectForOpenGL/src/main.cpp
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+iostream
+-
+
+/home/jerry/CMakeProject/ProjectForOpenGL/src/test.cpp
+iostream
+-
+test.hpp
+/home/jerry/CMakeProject/ProjectForOpenGL/src/test.hpp
+

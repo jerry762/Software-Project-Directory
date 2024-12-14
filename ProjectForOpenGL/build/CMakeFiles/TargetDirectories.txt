@@ -1,0 +1,7 @@
+/home/jerry/CMakeProject/ProjectForOpenGL/build/CMakeFiles/install/strip.dir
+/home/jerry/CMakeProject/ProjectForOpenGL/build/CMakeFiles/install/local.dir
+/home/jerry/CMakeProject/ProjectForOpenGL/build/CMakeFiles/install.dir
+/home/jerry/CMakeProject/ProjectForOpenGL/build/CMakeFiles/list_install_components.dir
+/home/jerry/CMakeProject/ProjectForOpenGL/build/CMakeFiles/rebuild_cache.dir
+/home/jerry/CMakeProject/ProjectForOpenGL/build/CMakeFiles/edit_cache.dir
+/home/jerry/CMakeProject/ProjectForOpenGL/build/CMakeFiles/OpenGLExample.dir
