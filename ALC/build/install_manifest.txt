@@ -1,0 +1,6 @@
+/mnt/c/Users/lkt22/CMakeLearnDir/ALC/installer/packages/com.vendor.qtapp/data/QtApp/MyQtApp
+/mnt/c/Users/lkt22/CMakeLearnDir/ALC/installer/packages/com.vendor.daemon/data/Daemon/daemon-template.conf
+/mnt/c/Users/lkt22/CMakeLearnDir/ALC/installer/packages/com.vendor.daemon/data/Daemon/daemon-template.service
+/mnt/c/Users/lkt22/CMakeLearnDir/ALC/installer/packages/com.vendor.daemon/data/Daemon/MyDaemon
+/mnt/c/Users/lkt22/CMakeLearnDir/ALC/installer/packages/com.vendor.daemon/data/Daemon/install_daemon.sh
+/mnt/c/Users/lkt22/CMakeLearnDir/ALC/installer/packages/com.vendor.daemon/data/Daemon/remove_daemon.sh
