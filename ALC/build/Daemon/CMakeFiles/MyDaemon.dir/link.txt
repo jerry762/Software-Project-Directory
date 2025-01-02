@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -no-pie   CMakeFiles/MyDaemon.dir/source/main.cpp.o CMakeFiles/MyDaemon.dir/source/daemon.cpp.o  -o MyDaemon  -Wl,-Bstatic -lconfig++ -Wl,-Bdynamic 
